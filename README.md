@@ -26,6 +26,7 @@ end
 # Somewhere in your process, where you want to add things to a batch
 
 Pdl.add(:posts, post.id)
+# => :ok
 
 # Later, i.e. right before the end of the request
 
