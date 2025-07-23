@@ -1,0 +1,7 @@
+[tools.elixir]
+version = "1.18.2-otp-27"
+backend = "core:elixir"
+
+[tools.erlang]
+version = "27.3.4.1"
+backend = "core:erlang"
